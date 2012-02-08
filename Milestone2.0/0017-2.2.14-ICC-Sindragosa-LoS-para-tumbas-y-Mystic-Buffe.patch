@@ -160,8 +160,8 @@ index d1bc17d..9e33059 100644
 +                        instance->DoRemoveAurasDueToSpellOnPlayers(SPELL_FROST_AURA);
 +                        me->ApplySpellImmune(0, IMMUNITY_ID, SPELL_FROST_AURA, true);
 +                        _bombsLanded = 0;
-+                        // 10 seconds instead of 8 because ice block affects players even after it's about to appear.
-+                        events.ScheduleEvent(EVENT_FROST_BOMB, 13000);
++                        // 16 seconds instead of 8 because ice block affects players even after it's about to appear.
++                        events.ScheduleEvent(EVENT_FROST_BOMB, 16000);
                          break;
                      case POINT_LAND:
                          me->SetFlying(false);
