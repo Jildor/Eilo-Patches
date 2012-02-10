@@ -2140,7 +2140,7 @@ index 0848d1e..e27906a 100644
 -                        uiDeathBiteTimer = urand (2000, 4000);
 -                    } else uiDeathBiteTimer -= uiDiff;
 -                    if (uiMarkedDeathTimer <= uiDiff)
-+                        uiDeathBiteTimer = urand (1000, 2000);
++                        uiDeathBiteTimer = urand (8000, 12000);
 +                    } else uiDeathBiteTimer -= diff;
 +                    if (uiMarkedDeathTimer <= diff)
                      {
