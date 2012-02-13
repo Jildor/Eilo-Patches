@@ -1,14 +1,14 @@
-From 71cc914e524b3d1c89cde301b32fc2fe38118c6f Mon Sep 17 00:00:00 2001
+From be61750361fb6363b4e43d94cc92303b4c14e36d Mon Sep 17 00:00:00 2001
 From: Eilo <eilo2518@gmail.com>
 Date: Mon, 2 Jan 2012 12:01:22 -0500
-Subject: [PATCH 25/25] Milestone1.0
+Subject: [PATCH 26/26] Milestone1.0
 
 ---
- WHAT_IS_INSIDE |   26 ++++++++++++++++++++++++++
- 1 files changed, 26 insertions(+), 0 deletions(-)
+ WHAT_IS_INSIDE |   27 +++++++++++++++++++++++++++
+ 1 files changed, 27 insertions(+), 0 deletions(-)
 
 diff --git a/WHAT_IS_INSIDE b/WHAT_IS_INSIDE
-index 9d8a7ee..1dfac77 100644
+index 9d8a7ee..6877868 100644
 --- a/WHAT_IS_INSIDE
 +++ b/WHAT_IS_INSIDE
 @@ -14,6 +14,8 @@ Milestone0.0: Reiniciando el repo y readaptando cosas varias, inclusion de nuevo
@@ -20,7 +20,7 @@ index 9d8a7ee..1dfac77 100644
  
  
  ##################################
-@@ -57,6 +59,30 @@ Milestone0.0: Reiniciando el repo y readaptando cosas varias, inclusion de nuevo
+@@ -57,6 +59,31 @@ Milestone0.0: Reiniciando el repo y readaptando cosas varias, inclusion de nuevo
  ###############
  # Jugabilidad #
  ###############
@@ -45,9 +45,10 @@ index 9d8a7ee..1dfac77 100644
 +1.19 - 17/12/2011: IsleOfConquest: Script evitando que puedan matar a los bosses con exploit por Retriman
 +1.20 - 08/11/2011: ArPen mejora comportamiento, mas blizzlike por Ws
 +1.21 - 04/02/2012: Corrigiendo los vehiculos con spline por A-Methaphysical-Drama
-+1.22 - 06/01/2012: El Loot de sangres de icc solo lo podra ver el Master Looter por Strolx
++1.22 - 06/01/2012: El Loot de sangres de icc solo lo podra ver el Master Looter por Strolch
 +1.23 - 14/01/2012: Corregida faccion del abisario inicial en Undercity por Muzashi
 +1.24 - 10/02/2012: Cada pj del raid debe tener el logro para entrar en heroico por Eilo
++1.25 - 11/02/2012: Ahora el loot de prospectar jade funciona como debe por Muzashi
  
  
  ###############################

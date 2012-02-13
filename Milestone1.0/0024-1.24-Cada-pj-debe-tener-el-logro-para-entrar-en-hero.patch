@@ -1,7 +1,7 @@
-From 469c69da52d493130d921199b10df0e4bdb5c270 Mon Sep 17 00:00:00 2001
+From 6c9c0374857fc3e543414db3d729a1ba370aef06 Mon Sep 17 00:00:00 2001
 From: Eilo <eilo2518@gmail.com>
 Date: Fri, 10 Feb 2012 02:13:30 -0500
-Subject: [PATCH 24/25] 1.24 Cada pj debe tener el logro para entrar en
+Subject: [PATCH 24/26] 1.24 Cada pj debe tener el logro para entrar en
  heroico
 
 ---
