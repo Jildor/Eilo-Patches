@@ -14,7 +14,7 @@ index 0257660..ca1504b 100644
 @@ -19,6 +19,8 @@ Milestone1.0: Jugabilidad en general, adecuaciones de codigo vario en mapas
  Milestone2.0: Mejoras en Instances y dungeons, escencialmente para darles funcionalidad
                y detalles menores de funcionamiento para tenerlas lo mas cercano
- 			  a blizzlike, solucion de bugs varios.
+               a blizzlike, solucion de bugs varios.
 +Milestone3.0  Arreglos a Spells, sobre todo para estabilidad del pve y del
 +              pvp dentro de los reinos.
  
